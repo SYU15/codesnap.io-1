@@ -11,6 +11,7 @@ You might think that writing high quality code means writing code that successfu
 decoupled 
 well organized
 well commented
+easy to follow
 
 # why is it important to write high quality code?
 
